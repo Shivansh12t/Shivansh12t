@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivansh12t
-- 👀 I’m interested in Computer Sciences and Astrophyiscs 
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Machine Learning and Mathematics 
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me : email- tuteja101@gmail.com , discord- shivansh12t
 
