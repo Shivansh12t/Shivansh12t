@@ -5,8 +5,17 @@
 - 📫 How to reach me : email- tuteja101@gmail.com , discord- shivansh12t
 
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivansh12t&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivansh12t&theme=dark&background=000000)](https://git.io/streak-stats)
+  
 </div>
+
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivansh12t)](https://git.io/streak-stats)
+
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh12t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
