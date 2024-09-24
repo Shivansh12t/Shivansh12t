@@ -7,17 +7,10 @@
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivansh12t&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-</div>
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivansh12t)](https://git.io/streak-stats)
-
-</div>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh12t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 <!---
 Shivansh12t/Shivansh12t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
