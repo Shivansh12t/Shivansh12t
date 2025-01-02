@@ -27,20 +27,22 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh12t&theme=dark&hide_border=false" alt="shivansh12t" /></p>
+<p>
+<a href="https://github.com/shivansh12t">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=shivansh12t&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivansh12t&theme=chartreuse_dark"/>
+</a>
+</p>
 
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh12t&theme=dark&hide_border=false" alt="shivansh12t" /></p>
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivansh12t&theme=chartreuse_dark" alt="shivansh12t" />
-  <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivansh12t&theme=chartreuse_dark)-->
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh12t&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="shivansh12t" />-->
-</p><br>
 
-<!--<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivansh12t&theme=dark&background=000000)](https://git.io/streak-stats)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivansh12t&theme=chartreuse_dark)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh12t&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="shivansh12t" />
+</p>-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh12t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>-->
+<br>
+
 
 <!---
 Shivansh12t/Shivansh12t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
