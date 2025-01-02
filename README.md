@@ -29,7 +29,10 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh12t&theme=dark&hide_border=false" alt="shivansh12t" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh12t&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="shivansh12t" /></p><br>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivansh12t&theme=chartreuse_dark" alt="shivansh12t" />
+  <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivansh12t&theme=chartreuse_dark)-->
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh12t&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="shivansh12t" />-->
+</p><br>
 
 <!--<div align="center">
   
