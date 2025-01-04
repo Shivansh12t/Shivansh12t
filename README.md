@@ -10,7 +10,7 @@
 - 🔭 Research Intern at **Samsung Reserach Institute - Bengalore**
 - 💻 Passionate about developing innovative solutions for **safety and communication in mining and construction sites**.
 - 👀 Interested in **Machine Learning** and **Cyber Security**
-- ⚙️ Active contributor to **open-source projects** and always exploring **new technologies**.
+- ⚙️ Active contributor to projects and always exploring new technologies.
 
 ## Staying Connected 🚀
 <a href="mailto:stuteja_be22@thapar.edu" target="_blank">
@@ -28,10 +28,8 @@
 <hr>
 
 <p>
-<a href="https://github.com/shivansh12t">
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=shivansh12t&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivansh12t&theme=chartreuse_dark"/>
-</a>
 </p>
 
 <!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh12t&theme=dark&hide_border=false" alt="shivansh12t" /></p>
