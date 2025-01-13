@@ -28,7 +28,7 @@
 <hr>
 
 <p>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=shivansh12t&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://shivansh12t-readme-stats.vercel.app?user=shivansh12t&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivansh12t&theme=chartreuse_dark"/>
 </p>
 
