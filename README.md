@@ -39,6 +39,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh12t&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="shivansh12t" />
 </p>-->
 
+## Certification Badges
+
+<div align="left">
+  <a href="https://www.credly.com/badges/fd76932f-bc66-47ad-9452-fad66fc6407b">
+    <img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="100">
+  </a>
+</div>
+
 <br>
 
 
