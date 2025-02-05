@@ -25,8 +25,10 @@
   <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-<hr>
+## My Tech Arsenal
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,bash,powershell,matlab,django,flask,expressjs,nodejs,react,vite,bootstrap,tailwind,mysql,postgres,mongodb,aws,docker,cloudflare,nginx,linux,windows,git,github,vercel,sklearn,tensorflow,arduino,vscode,neovim,vim&perline=13)](#)
 
+## Github Stats
 <p>
   <img height="180em" src="https://shivansh12t-readme-stats.vercel.app?user=shivansh12t&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivansh12t&theme=chartreuse_dark"/>
@@ -39,11 +41,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh12t&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="shivansh12t" />
 </p>-->
 
-## Certification Badges
+## Badges
 
 <div align="left">
   <a href="https://www.credly.com/badges/fd76932f-bc66-47ad-9452-fad66fc6407b">
     <img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="100">
+  </a>
+  <a href="https://www.credly.com/badges/fd76932f-bc66-47ad-9452-fad66fc6407b">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width="100">
   </a>
 </div>
 
