@@ -26,7 +26,7 @@
 </a>
 
 ## My Tech Arsenal
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,bash,powershell,matlab,django,flask,expressjs,nodejs,react,vite,bootstrap,tailwind,mysql,postgres,mongodb,aws,docker,cloudflare,nginx,linux,windows,git,github,vercel,sklearn,tensorflow,arduino,vscode,neovim,vim&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,bash,powershell,matlab,django,flask,expressjs,nodejs,react,vite,bootstrap,tailwind,mysql,postgres,mongodb,aws,docker,cloudflare,nginx,linux,windows,git,github,vercel,sklearn,tensorflow,arduino,vscode,neovim,vim&perline=20)](#)
 
 ## Github Stats
 <p>
