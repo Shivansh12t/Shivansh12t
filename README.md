@@ -51,6 +51,9 @@
   <a href="https://www.credly.com/badges/fd76932f-bc66-47ad-9452-fad66fc6407b">
     <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width="100">
   </a>
+  <a href="https://images.credly.com/images/81fad72d-a948-409f-a979-0c1bf67b39ab/image.png">
+    <img src="https://images.credly.com/images/81fad72d-a948-409f-a979-0c1bf67b39ab/image.png" width="100">
+  </a>
 </div>
 
 <br>
