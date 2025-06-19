@@ -7,7 +7,7 @@
 # Hi 👋, I'm Shivansh
 
 ## About Me
-- 🖱️ Upcoming SEP Intern @ **J.P. Morgan Chase & Co - Bengalore**
+- 🖥️ SEP Intern @ **J.P. Morgan Chase & Co - Bengalore**
 - 🔭 Ex - Research Intern at **Samsung Reserach Institute - Bengalore**
 - 💻 Passionate about developing innovative solutions for **safety and communication in mining and construction sites**.
 - 👀 Interested in **MCP Applications**, **GenAI** and **Cyber Security**
